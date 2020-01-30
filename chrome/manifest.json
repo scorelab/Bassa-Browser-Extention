@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+
+    "name": "Bassa",
+    "description": "Automated Download Queue for Communities to take the best use of Internet bandwidth",
+    "vesion": "1.0",
+}
